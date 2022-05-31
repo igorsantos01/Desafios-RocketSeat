@@ -1,0 +1,83 @@
+*{
+    background-color: #FAF7FD;
+    margin: 0 auto;
+}
+#perfil_image{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    left: 610px;
+    top: 207px;
+    padding: 5px;
+    border-radius: 50%;
+    border: 2px  #BB99DD solid;
+}
+#instagram_perfil{
+    position: absolute;
+    width: 99px;
+    height: 24px;
+    left: 669px;
+    top: 429px;
+    margin-top: 15px;
+    color: #BB99DD;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    text-decoration: none;
+}
+#links{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: #BB99DD;
+    text-decoration: none;
+}
+.link{
+    box-sizing: border-box;
+    position: absolute;
+    border: 2px solid #BB99DD;
+    border-radius: 4px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    text-decoration: none;
+    padding-top: 10px;
+}
+
+#link1{
+    width: 326px;
+    height: 49px;
+    left: 556px;
+    top: 486px; 
+}
+#link2{
+    width: 326px;
+    height: 49px;
+    left: 556px;
+    top: 551px;   
+}
+#link3{
+    width: 326px;
+    height: 49px;
+    left: 556px;
+    top: 616px; 
+}
+#link4{
+    width: 326px;
+    height: 49px;
+    left: 556px;
+    top: 681px;  
+} 
+#logo{
+    position: absolute;
+    display: flex;
+    justify-content: space-around;
+    width: 236px;
+    height: 24px;
+    left: 601px;
+    top: 798px;
+}
