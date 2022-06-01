@@ -25,6 +25,17 @@ button{
     height: 50px;
     padding: 15px 15px 15px 15px;
 }
+button:hover{
+    background-color: #8257E5;
+    border: black 2px solid;
+    color: white;
+    border-radius: 6px;
+    font:700 normal 14px 'Manrope';
+    letter-spacing: 0.02em;
+    width: 150px;
+    height: 50px;
+    padding: 15px 15px 15px 15px;
+}
 a{
     font: 400 normal 19px 'Manrope' ;
     text-decoration: none;
