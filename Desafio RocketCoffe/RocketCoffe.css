@@ -2,7 +2,7 @@
     margin: 0;
 }
 body{
-    background: #000000;
+    background: linear-gradient(10deg,#8257E5,black,black,black)
 }
 header{
     display: flex;
